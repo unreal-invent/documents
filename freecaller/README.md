@@ -14,13 +14,12 @@ The Application obtains the information you provide when you download and regist
 
  
 
- 
-
 When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
 
  
 
 We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+
 
 **Automatically Collected Information** 
 
