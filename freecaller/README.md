@@ -12,15 +12,12 @@ This privacy policy governs your use of the software application Freecaller (“
 
 **User Provided Information**
 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+The Application obtains the information you provide when you download and register the Application. Registration with us is mandatory.
 
  
 
-When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
+When you use the Application for the first time, you generally provide your telephone number to link the calls to your device.
 
- 
-
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 
 
 **Automatically Collected Information** 
@@ -35,7 +32,41 @@ In addition, the Application may collect certain information automatically, incl
 
  
 
-This Application does not collect precise information about the location of your mobile device. 
+This Application does not collect precise information about the location of your mobile device.
+
+
+
+**What specific device permissions are required by The Application to function?**
+
+
+
+**1. READ_PHONE_STATE**
+
+
+The Application accesses phone state, including the current cellular network information and the status of any ongoing calls on the device.
+
+
+
+**2. CALL_PHONE**
+
+ 
+Allows The Application to initiate a phone call without going through the Dialer user interface for the user to confirm the call.
+
+
+
+**3. RECORD_AUDIO**
+
+ 
+Allows The Application to access device microphone during active call conversations.
+
+
+
+**4. BLUETOOTH_CONNECT**
+
+ 
+Allows The Application to route audio output to connected bluetooth devices.
+
+
 
  
 **Do third parties see and/or have access to information obtained by the Application?**
