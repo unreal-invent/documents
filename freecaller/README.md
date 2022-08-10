@@ -2,7 +2,7 @@
 
  
 
-This privacy policy governs your use of the software application Freecaller (“Application”) for mobile devices that was created by Unreal Dev Studios. The Application is a simple application that allows users make voice calls to telephone numbers using internet data. 
+This privacy policy governs your use of the software application Freecaller (“Application”) for mobile devices that was created by Unreal App Studios. The Application is a simple application that allows users make voice calls to telephone numbers using internet data. 
  
  
  
@@ -52,7 +52,7 @@ We may disclose User Provided and Automatically Collected Information:
 
     with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-    if Unreal Dev Studios is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+    if Unreal App Studios is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
  
 
