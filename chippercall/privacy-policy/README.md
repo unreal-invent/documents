@@ -2,7 +2,7 @@
 
  
 
-This privacy policy governs your use of the software application Chippercall (“Application”) for mobile devices that was created by Chippercall Integrated Services. The Application is a simple application that allows users make voice calls to telephone numbers using internet data. 
+This privacy policy governs your use of the software application Chippercall (“Application”) for mobile devices that was created by Chippercall Integrated Systems (BN 7058305). The Application is a simple application that allows users make voice calls to telephone numbers using internet data.
  
  
  
@@ -42,7 +42,7 @@ This Application does not collect precise information about the location of your
 **1. RECORD_AUDIO**
 
  
-Allows The Application to use device microphone for call conversations initiated from the application.
+Allows The Application use device microphone for call conversations initiated from the application.
 
 
 
@@ -53,21 +53,42 @@ The Application accesses phone state, including the current cellular network inf
 
 
 
-**2. CAMERA**
+**3. CAMERA**
 
  
-Allows The Application to access the device camera during video conversations and QR code scans.
+Allows The Application access the device camera during video conversations and QR code scans.
 
 
 
 **4. READ_CONTACTS**
 
  
-Allows The Application to read contacts stored on the user's device to improve calling and messaging experiences.
+Allows The Application read contacts stored on the user's device to improve calling and messaging experiences.
 
 
+
+**5. CALL_PHONE**
 
  
+Allows The Application initiate a phone call directly without opening the default Dialer application.
+
+
+
+**6. BLUETOOTH_CONNECT**
+
+ 
+Allows The Application route audio through connected Bluetooth devices.
+
+
+
+**7. READ_SMS**
+
+ 
+Allows The Application reads sms stored on the user's device to improve calling and messaging experiences.
+
+
+
+
 **Do third parties see and/or have access to information obtained by the Application?**
 
  
