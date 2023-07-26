@@ -1,8 +1,8 @@
-**PRIVACY POLICY FOR FREECALLER**
+**PRIVACY POLICY FOR CHIPPERCALL**
 
  
 
-This privacy policy governs your use of the software application Freecaller (“Application”) for mobile devices that was created by Unreal App Studios. The Application is a simple application that allows users make voice calls to telephone numbers using internet data. 
+This privacy policy governs your use of the software application Chippercall (“Application”) for mobile devices that was created by Chippercall Integrated Services. The Application is a simple application that allows users make voice calls to telephone numbers using internet data. 
  
  
  
@@ -39,32 +39,31 @@ This Application does not collect precise information about the location of your
 **What specific device permissions are required by The Application to function?**
 
 
+**1. RECORD_AUDIO**
 
-**1. READ_PHONE_STATE**
+ 
+Allows The Application to use device microphone for call conversations initiated from the application.
+
+
+
+**2. READ_PHONE_STATE**
 
 
 The Application accesses phone state, including the current cellular network information and the status of any ongoing calls on the device.
 
 
 
-**2. CALL_PHONE**
+**2. CAMERA**
 
  
-Allows The Application to initiate a phone call without going through the Dialer user interface for the user to confirm the call.
+Allows The Application to access the device camera during video conversations and QR code scans.
 
 
 
-**3. RECORD_AUDIO**
-
- 
-Allows The Application to access device microphone during active call conversations.
-
-
-
-**4. BLUETOOTH_CONNECT**
+**4. READ_CONTACTS**
 
  
-Allows The Application to route audio output to connected bluetooth devices.
+Allows The Application to read contacts stored on the user's device to improve calling and messaging experiences.
 
 
 
@@ -92,19 +91,19 @@ We may disclose User Provided and Automatically Collected Information:
 
  
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at unrealstudios360@gmail.com.
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@chippercall.com.
 
  
 **Data Retention Policy, Managing Your Information**
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at unrealstudios360@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@chippercall.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
  
 **Children**
 
  
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at unrealstudios360@gmail.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@chippercall.com. We will delete such information from our files within a reasonable time.
  
 **Security**
 
@@ -125,4 +124,4 @@ By using the Application, you are consenting to our processing of your informati
  
 **Contact us**
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at unrealstudios360@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@chippercall.com.
